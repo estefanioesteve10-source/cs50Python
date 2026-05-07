@@ -21,7 +21,6 @@ The repository is organized by weeks, following the course curriculum:
 * **Week 7: Regular Expressions** - `numb3rs`, `watch`, `working`, `um`, `response`
 * **Week 8: Object-Oriented Programming** - `seasons`, `jar`, `shirtific`
 * **Week 9: Et Cetera** - (Final review and advanced concepts)
-* **Final Project** - [Link to your specific project folder]
 
 ## Final Project: CS50 Bank
 For my final project, I developed a **Modular Banking System** with automated PDF generation. Key features include:
